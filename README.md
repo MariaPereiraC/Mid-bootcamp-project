@@ -2,7 +2,7 @@
 
 
 Motivation: 
-The EU has set a target to sell 0 vehicles that are powered by fossil fuels by 20235. My main interest is to assess wheather Germany is prepared for such transition. 
+The EU has set a target to sell 0 vehicles that are powered by fossil fuels by 2035. My main interest is to assess wheather Germany is prepared for such transition. 
 
 The following are the sources I used for my anaylsis: 
 [Charging stations](https://www.kaggle.com/datasets/mexwell/electric-vehicle-charging-in-germany)
